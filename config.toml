@@ -1,3 +1,4 @@
 baseURL = "https://vivimodas.com/"
 languageCode = "pt-br"
 title = "Vivi Modas"
+theme = "ananke"
