@@ -4,6 +4,7 @@ title = "Vivi Modas"
 theme = "ananke"
 
 DefaultContentLanguage = "pt"
+googleAnalytics = "UA-187792756-1"
 
 [params]
   description = "As melhores recomendações de moda! De sapatos e botas a camisas e jaquetas, temos tudo o que você precisa."
