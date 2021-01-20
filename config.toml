@@ -2,3 +2,12 @@ baseURL = "https://vivimodas.com/"
 languageCode = "pt-br"
 title = "Vivi Modas"
 theme = "ananke"
+
+DefaultContentLanguage = "pt"
+
+[params]
+  description = "As melhores recomendações de moda! De sapatos e botas a camisas e jaquetas, temos tudo o que você precisa."
+  mainSections = ["calcados", "tops"]
+  favicon = "/images/favicon.jpg"
+  site_logo = "/images/logo.png"
+  featured_image = "/images/hero-image.jpg"
