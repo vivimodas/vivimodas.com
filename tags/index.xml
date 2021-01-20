@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Vivi Modas</title><link>https://vivimodas.com/tags/</link><description>Recent content in Tags on Vivi Modas</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><atom:link href="https://vivimodas.com/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vivi Modas</title>
+    <link>https://vivimodas.com/tags/</link>
+    <description>Recent content in Tags on Vivi Modas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 19 Jan 2021 14:57:43 -0500</lastBuildDate><atom:link href="https://vivimodas.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>calcados</title>
+      <link>https://vivimodas.com/tags/calcados/</link>
+      <pubDate>Tue, 19 Jan 2021 14:57:43 -0500</pubDate>
+      
+      <guid>https://vivimodas.com/tags/calcados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sapatos caminhada</title>
+      <link>https://vivimodas.com/tags/sapatos-caminhada/</link>
+      <pubDate>Tue, 19 Jan 2021 14:57:43 -0500</pubDate>
+      
+      <guid>https://vivimodas.com/tags/sapatos-caminhada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>confortável</title>
+      <link>https://vivimodas.com/tags/confort%C3%A1vel/</link>
+      <pubDate>Tue, 19 Jan 2021 14:24:16 -0500</pubDate>
+      
+      <guid>https://vivimodas.com/tags/confort%C3%A1vel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
